@@ -1,0 +1,88 @@
+---
+title: LRCL Lab Notebook
+author: Rob Cavanaugh
+date: "Last rendered: `r format(Sys.Date(), '%b %d, %Y')`"
+description: Institutional knowledge and best practices for the LRCL Lab
+github-repo: "rbcavanaugh/lab-notebook"
+output: 
+  bookdown::gitbook:
+    split_by: section
+    config:
+      toc:
+        collapse: subsection
+        scroll_highlight: yes
+        before: null
+        after: null
+      toolbar:
+        position: fixed
+      edit : null
+      download: "lab-notebook.pdf"
+      fontsettings:
+        theme: white
+        family: sans
+        size: 2
+
+---
+
+# Introduction
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis tincidunt erat, vel viverra ante. Vivamus congue consectetur mi id feugiat. Etiam et mattis libero. Nulla facilisi. Sed semper, dolor et euismod eleifend, nisi magna tristique nunc, sit amet auctor augue lorem a tellus. Mauris finibus ac libero a congue. Nunc ut egestas nulla. Vivamus dictum ullamcorper pulvinar.
+
+# Data Organization
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis tincidunt erat, vel viverra ante. Vivamus congue consectetur mi id feugiat. Etiam et mattis libero. Nulla facilisi. Sed semper, dolor et euismod eleifend, nisi magna tristique nunc, sit amet auctor augue lorem a tellus. Mauris finibus ac libero a congue. Nunc ut egestas nulla. Vivamus dictum ullamcorper pulvinar.
+
+# Using R, Rstudio, & Anaconda
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis tincidunt erat, vel viverra ante. Vivamus congue consectetur mi id feugiat. Etiam et mattis libero. Nulla facilisi. Sed semper, dolor et euismod eleifend, nisi magna tristique nunc, sit amet auctor augue lorem a tellus. Mauris finibus ac libero a congue. Nunc ut egestas nulla. Vivamus dictum ullamcorper pulvinar.
+
+## R Projects & Project-based workflow
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis tincidunt erat, vel viverra ante. Vivamus congue consectetur mi id feugiat. Etiam et mattis libero. Nulla facilisi. Sed semper, dolor et euismod eleifend, nisi magna tristique nunc, sit amet auctor augue lorem a tellus. Mauris finibus ac libero a congue. Nunc ut egestas nulla. Vivamus dictum ullamcorper pulvinar.
+
+### {here} and here::here()
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis tincidunt erat, vel viverra ante. Vivamus congue consectetur mi id feugiat. Etiam et mattis libero. Nulla facilisi. Sed semper, dolor et euismod eleifend, nisi magna tristique nunc, sit amet auctor augue lorem a tellus. Mauris finibus ac libero a congue. Nunc ut egestas nulla. Vivamus dictum ullamcorper pulvinar.
+
+## R Scripts
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis tincidunt erat, vel viverra ante. Vivamus congue consectetur mi id feugiat. Etiam et mattis libero. Nulla facilisi. Sed semper, dolor et euismod eleifend, nisi magna tristique nunc, sit amet auctor augue lorem a tellus. Mauris finibus ac libero a congue. Nunc ut egestas nulla. Vivamus dictum ullamcorper pulvinar.
+
+## R Markdown
+
+### Markdown language
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis tincidunt erat, vel viverra ante. Vivamus congue consectetur mi id feugiat. Etiam et mattis libero. Nulla facilisi. Sed semper, dolor et euismod eleifend, nisi magna tristique nunc, sit amet auctor augue lorem a tellus. Mauris finibus ac libero a congue. Nunc ut egestas nulla. Vivamus dictum ullamcorper pulvinar.
+
+### Plotly & Interactive plots (non-shiny)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis tincidunt erat, vel viverra ante. Vivamus congue consectetur mi id feugiat. Etiam et mattis libero. Nulla facilisi. Sed semper, dolor et euismod eleifend, nisi magna tristique nunc, sit amet auctor augue lorem a tellus. Mauris finibus ac libero a congue. Nunc ut egestas nulla. Vivamus dictum ullamcorper pulvinar.
+
+### Reproducible tables and results text
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis tincidunt erat, vel viverra ante. Vivamus congue consectetur mi id feugiat. Etiam et mattis libero. Nulla facilisi. Sed semper, dolor et euismod eleifend, nisi magna tristique nunc, sit amet auctor augue lorem a tellus. Mauris finibus ac libero a congue. Nunc ut egestas nulla. Vivamus dictum ullamcorper pulvinar.
+
+## R Shiny
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis tincidunt erat, vel viverra ante. Vivamus congue consectetur mi id feugiat. Etiam et mattis libero. Nulla facilisi. Sed semper, dolor et euismod eleifend, nisi magna tristique nunc, sit amet auctor augue lorem a tellus. Mauris finibus ac libero a congue. Nunc ut egestas nulla. Vivamus dictum ullamcorper pulvinar.
+
+## Resources for learning R
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis tincidunt erat, vel viverra ante. Vivamus congue consectetur mi id feugiat. Etiam et mattis libero. Nulla facilisi. Sed semper, dolor et euismod eleifend, nisi magna tristique nunc, sit amet auctor augue lorem a tellus. Mauris finibus ac libero a congue. Nunc ut egestas nulla. Vivamus dictum ullamcorper pulvinar.
+
+## Helpful R packages
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis tincidunt erat, vel viverra ante. Vivamus congue consectetur mi id feugiat. Etiam et mattis libero. Nulla facilisi. Sed semper, dolor et euismod eleifend, nisi magna tristique nunc, sit amet auctor augue lorem a tellus. Mauris finibus ac libero a congue. Nunc ut egestas nulla. Vivamus dictum ullamcorper pulvinar.
+
+# Using Git and Github.com
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis tincidunt erat, vel viverra ante. Vivamus congue consectetur mi id feugiat. Etiam et mattis libero. Nulla facilisi. Sed semper, dolor et euismod eleifend, nisi magna tristique nunc, sit amet auctor augue lorem a tellus. Mauris finibus ac libero a congue. Nunc ut egestas nulla. Vivamus dictum ullamcorper pulvinar.
+
+## Connecting R projects to git & github (a general workflow)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis tincidunt erat, vel viverra ante. Vivamus congue consectetur mi id feugiat. Etiam et mattis libero. Nulla facilisi. Sed semper, dolor et euismod eleifend, nisi magna tristique nunc, sit amet auctor augue lorem a tellus. Mauris finibus ac libero a congue. Nunc ut egestas nulla. Vivamus dictum ullamcorper pulvinar.
+
+## The core git commands to know
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis tincidunt erat, vel viverra ante. Vivamus congue consectetur mi id feugiat. Etiam et mattis libero. Nulla facilisi. Sed semper, dolor et euismod eleifend, nisi magna tristique nunc, sit amet auctor augue lorem a tellus. Mauris finibus ac libero a congue. Nunc ut egestas nulla. Vivamus dictum ullamcorper pulvinar.
+

@@ -1,0 +1,16 @@
+introduction
+data-organization
+using-r-rstudio-anaconda
+r-projects-project-based-workflow
+here-and-herehere
+r-scripts
+r-markdown
+markdown-language
+plotly-interactive-plots-non-shiny
+reproducible-tables-and-results-text
+r-shiny
+resources-for-learning-r
+helpful-r-packages
+using-git-and-github.com
+connecting-r-projects-to-git-github-a-general-workflow
+the-core-git-commands-to-know
