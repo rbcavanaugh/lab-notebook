@@ -16,4 +16,5 @@ Please make a pull request with any desired changeslrc
 # Resources I need to add:
 
 - https://slides.djnavarro.net/project-structure/#1
-- Twitter follows: Lisa DeBruine, Dale Barr, TJ Mahr, Andrew Wheiss, 
+- Twitter follows: Lisa DeBruine, Dale Barr, TJ Mahr, Andrew Wheiss, Jenny Bryan
+- Any thing Jenny Bryan does
