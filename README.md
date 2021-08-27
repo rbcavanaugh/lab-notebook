@@ -12,3 +12,8 @@ resources, basic git/github instructions, and some other tidbits.
 The notebook can be found at the github pages site here \[future link\]
 
 Please make a pull request with any desired changeslrc
+
+# Resources I need to add:
+
+- https://slides.djnavarro.net/project-structure/#1
+- Twitter follows: Lisa DeBruine, Dale Barr, TJ Mahr, Andrew Wheiss, 
