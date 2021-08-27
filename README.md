@@ -18,3 +18,12 @@ Please make a pull request with any desired changeslrc
 - https://slides.djnavarro.net/project-structure/#1
 - Twitter follows: Lisa DeBruine, Dale Barr, TJ Mahr, Andrew Wheiss, Jenny Bryan
 - Any thing Jenny Bryan does
+- brief guide to rmarkdown
+- presenting reports to others
+- sharing data with others
+- easy stats
+- tidyverse vs. base r
+- shiny apps
+- stats classes to take at pitt/ pitt summer methods
+- grant resources
+- current file/folder structure
