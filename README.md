@@ -27,3 +27,7 @@ Please make a pull request with any desired changeslrc
 - stats classes to take at pitt/ pitt summer methods
 - grant resources
 - current file/folder structure
+- https://psyteachr.github.io/stat-models-v1/introducing-linear-mixed-effects-models.html
+- soloman k. blog
+- bayesian resources
+- scott's slides
