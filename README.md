@@ -31,3 +31,4 @@ Please make a pull request with any desired changeslrc
 - soloman k. blog
 - bayesian resources
 - scott's slides
+- Getting started on a prject - who owns the folders (Will) and graduation checklists. 
